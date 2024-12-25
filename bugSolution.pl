@@ -1,0 +1,1 @@
+my %hash = (a => 1, b => 2); my @keys = sort keys %hash; foreach my $key (@keys) { print $key; }
